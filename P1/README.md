@@ -38,5 +38,7 @@ Para terminar, todas las páginas tienen versión web disponible también para m
 
 
 
+### Resumen de la práctica
 
+La página que hemos estudiado resulta bastante intuitiva y útil. Consta de una interfaz bastante gráfica y directa, adaptada a diversos usuarios de muchos ámbitos. 
 
