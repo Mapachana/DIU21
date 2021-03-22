@@ -18,9 +18,7 @@ Otras opciones de página web donde informarse es http://www.granadadirect.com/i
 
 También hemos observado https://www.turismo.gal/axenda-cultural?langId=es_ES donde lo primero a resaltar es que la página no dispone de una traducción al inglés, lo cuál puede ser un problema. Dispone de varios buscadores según distintos criterios y un calendario donde comprobar eventos próximos. Asimismo su información está muy completa con diversos enlaces y recursos, siendo muy intuitiva a la hora de navegar por ella. Finalmente, dispone de redes sociales activas para compartir diversas zonas de interés turístico.
 
-Igualmente http://www.granadatur.com/ cuenta con un apartado en el que añadir los planes para planificar tu viaje y luego poder descargarlo cómodamente, además tiene enlaces a sus redes sociales donde anuncian eventos próximos que pueden interesar.
-
-(tiene muchos enlaces rotos, eso hay que ponerlo?)
+Igualmente http://www.granadatur.com/ cuenta con un apartado en el que añadir los planes para planificar tu viaje y luego poder descargarlo cómodamente, además tiene enlaces a sus redes sociales donde anuncian eventos próximos que pueden interesar. Muchos de los enlaces de la página no funcionan.
 
 Finalmente, https://www.esmadrid.com/donde-dormir dispone de un apartado para planificar el viaje durante la pandemia indicando qué hoteles y otros servicios de la comunidad están abiertos y sus medidas sanitarias. Cuenta con diversos enlaces a servicios para facilitar el uso de estos. 
 

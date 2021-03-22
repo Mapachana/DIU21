@@ -78,7 +78,7 @@ angular.module("angular", [])
 				Photo: "image6.jpeg",
 				Quote: "El futuro es fruto de la semilla del trabajo que hagas hoy",
 				Age: 28,
-				Occupation: "Camarero del telepizza",
+				Occupation: "Cocinero del telepizza",
 				Family: "Padres y su pareja",
 				Location: "Jódar (Jaén)",
 				Character: "Ser rico",
@@ -89,8 +89,8 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
 				Goals: ["Acabar la carrera", "Conseguir un trabajo estable y bien pagado", "Independizarse con su pareja"],
-				Frustrations: ["No consigue aprobar sus asignaturas pendientes", "No le gusta su trabajo actual", "No puede ahorrar para el futuro"],
-				Bio: "Nació en Jaén pero su familia se mudó a Jódar por falta de recursos. Allí conoció a su actual pareja. Está estudiando su último año de carrera tras varios cursos recuperando asignaturas y buscando un trabajo mejor remunerado.",
+				Frustrations: ["No consigue aprobar sus asignaturas pendientes", "No le gusta su trabajo actual", "No puede ahorrar para el futuro", "No tiene dinero para costearse un implante auditivo"],
+				Bio: "Nació en Jaén pero su familia se mudó a Jódar por falta de recursos. Allí conoció a su actual pareja. Se quedó sordo por una infección en los oídos a los 3 años. Está estudiando su último año de carrera tras varios cursos recuperando asignaturas y buscando un trabajo mejor remunerado.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Mobile", Value: 4 },
