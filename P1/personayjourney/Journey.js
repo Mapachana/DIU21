@@ -56,7 +56,7 @@ angular.module("angular", [])
                 goal3: "La hija le pasa el enlace de una página de turismo en Granada y busca hotel para todas",
                 touch3: "Ordenador",
                 feel3: "3",
-                con3: "Tiene problemas para realizar la reserva por internet",
+                con3: "Tiene problemas para realizar la reserva por internet, le cuesta ver la letra de la página, tiene que hacer zoom",
                 ima3: "cartoon-PCtyping.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
