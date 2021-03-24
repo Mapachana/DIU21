@@ -28,11 +28,11 @@ Para terminar, todas las páginas tienen versión web disponible también para m
 
 En primer lugar hemos creado a Amparo, una señora mayor con poco conocimiento sobre el uso de las tecnologías, lo que le dificulta organizar un viaje por internet.
 
-> Ficha de Amparo
+![](/home/usuario/Documentos/Universidad/DIU/DIU21/P1/img/userPersonaAmparo.png)
 
 Asimismo tenemos a Jorge, cuya principal dificultad para llevar a cabo la tarea de organizar un viaje es su falta de presupuesto y la dificultad de encontrar actividades adaptadas para él.
 
-> Ficha de Jorge
+![](/home/usuario/Documentos/Universidad/DIU/DIU21/P1/img/userPersonaJorge.png)
 
 ### 2 User Journey Map  ( 1 por persona)
 
@@ -40,15 +40,15 @@ Las experiencias de Amparo y Jorge son bastante distintas, pero creemos que son 
 
 Para comenzar, Amparo pide ayuda a su hija, que le muestra una página web donde conseguir información para organizar el viaje online, pero Amparo prefiere realizar las reservas por teléfono.
 
-> Journey map de Amparo
+![](/home/usuario/Documentos/Universidad/DIU/DIU21/P1/img/journeyMapAmparo.png)
 
 La experiencia de Jorge es muy distinta, pues él no tiene problema en buscar la información y realizar las reservas solo, pero no encuentra nada sobre visitas guiadas que pueda realizar con su discapacidad ni le es fácil realizar búsquedas de alojamiento y actividades de acuerdo a su presupuesto.
 
-> Journey map de Jorge
+![](/home/usuario/Documentos/Universidad/DIU/DIU21/P1/img/journeyMapJorge.png)
 
 ### Revisión de Usabilidad 
 
-> Enlace al excel
+[**Enlace al documento con la Revison de usabilidad**](./Usability-review-template.xls)
 
 **Valoración final: 76 - Good**
 
