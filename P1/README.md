@@ -40,11 +40,11 @@ Las experiencias de Amparo y Jorge son bastante distintas, pero creemos que son 
 
 Para comenzar, Amparo pide ayuda a su hija, que le muestra una página web donde conseguir información para organizar el viaje online, pero Amparo prefiere realizar las reservas por teléfono.
 
-![](/home/usuario/Documentos/Universidad/DIU/DIU21/P1/img/journeyMapAmparo.png)
+![](./img/journeyMapAmparo.png)
 
 La experiencia de Jorge es muy distinta, pues él no tiene problema en buscar la información y realizar las reservas solo, pero no encuentra nada sobre visitas guiadas que pueda realizar con su discapacidad ni le es fácil realizar búsquedas de alojamiento y actividades de acuerdo a su presupuesto.
 
-![](/home/usuario/Documentos/Universidad/DIU/DIU21/P1/img/journeyMapJorge.png)
+![](./img/journeyMapJorge.png)
 
 ### Revisión de Usabilidad 
 
