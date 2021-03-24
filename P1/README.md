@@ -26,17 +26,37 @@ Para terminar, todas las páginas tienen versión web disponible también para m
 
 ### Personas
 
+En primer lugar hemos creado a Amparo, una señora mayor con poco conocimiento sobre el uso de las tecnologías, lo que le dificulta organizar un viaje por internet.
 
+> Ficha de Amparo
+
+Asimismo tenemos a Jorge, cuya principal dificultad para llevar a cabo la tarea de organizar un viaje es su falta de presupuesto y la dificultad de encontrar actividades adaptadas para él.
+
+> Ficha de Jorge
 
 ### 2 User Journey Map  ( 1 por persona)
 
+Las experiencias de Amparo y Jorge son bastante disitntas, pero creemos que son situaciones que se dan con frecuencia.
 
+Para comenzar, Amparo pide ayuda a su hija, que le muestra una página web donde conseguir información para organizar el viaje online, pero Amparo prefiere realizar las reservas por teléfono.
+
+> Journey map de Amparo
+
+La experiencia de Jorge es muy distinta, pues él no tiene problema en buscar la infromaicón y realizar las reservas solo, pero no encuentra la información sobre visitas guiadas que pueda realizar con su discapacidad ni le es fácil realiar búsquedas de alojamiento y actividades de acuerdo a su presupuesto.
+
+> Journey map de Jorge
 
 ### Revisión de Usabilidad 
 
+> Enlace al excel
 
+**Valoración final: 76 - Good**
+
+En general la página cumple con la mayor parte de funcionalidades y requisitos que el usuario espera de ella, si bien habría que mejorar las búsquedas para que tengan más posibles criterios, añadir una página de ayuda, hacer más claras las acciones a realizar sobre las actividades y esclarecer para qué colectivos son accesibles las distintas actividades disponibles.
 
 ### Resumen de la práctica
 
-La página que hemos estudiado resulta bastante intuitiva y útil. Consta de una interfaz bastante gráfica y directa, adaptada a diversos usuarios de muchos ámbitos. 
+La página que hemos estudiado resulta bastante intuitiva y útil. Consta de una interfaz bastante gráfica y directa, adaptada a diversos usuarios de muchos ámbitos y que cumple los requisitos de la mayoría de ususarios de la misma, si bien se podría mejorar sobre todo en temas de accesibilidad a personas con discapacidades o usuarios con bajo nivel de uso de tecnologías aumentando la información en las actividades, añadiendo más criterios de búsqueda y creando una página de ayuda clara.
+
+También habría que mejorar la sección para organizar el viaje, dejando más claras las acciones a realizar sobre las actividades, pidiendo confirmación antes de añadirlas al viaje y permitiendo eliminar actividades de la lista sin abandonar la sección actual de la página.
 

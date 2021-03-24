@@ -119,27 +119,27 @@ angular.module("angular", [])
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca lugares emblemáticos que visitar gratuitamente",
+                goal4: "Busca visitas guiadas para visitar los monumentos",
                 touch4: "Ordenador",
-                feel4: "3",
-                con4: "Muchos de los monumentos más importantes no son gratis",
+                feel4: "1",
+                con4: "No encuentra información sobre si las visitas guiadas disponibles están adaptadas para personas sordas",
                 ima4: "cartoon-PChard.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva entradas solo para los monumentos más importantes",
+                goal5: "Reserva entradas solo para los monumentos, sin visitas guiadas",
                 touch5: "Ordenador",
-                feel5: "3",
-                con5: "Tendrá que abaratar costes del alojamiento",
+                feel5: "2",
+                con5: "Sale más caro al no disponer de bono turístico, por lo que tendrá que abaratar gastos en el alojamiento",
                 ima5: "cartoon-PCtyping.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie organizar la escapada según planeaba",
+                goal6: "Consiguie organizar la escapada, pero no como le hubiera gustado",
                 touch6: "Ordenador (reserva OK)",
-                feel6: "3",
-                con6: "Se ha gastado más dinero del que había presupuestado en un principio",
+                feel6: "2",
+                con6: "Se ha gastado más dinero del que había presupuestado en un principio y no ha conseguido ninguna visita guiada",
                 ima6: "cartoon-resting.png",
                 
                 
