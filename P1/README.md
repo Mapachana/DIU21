@@ -1,16 +1,4 @@
-## DIU - Practica1, entregables
-
-
-
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
-
-(valoración y conclusiones de esta etapa)
-
-### Desk research: Análisis Competencia
+## Desk research: Análisis Competencia
 
 Nuestra página a estudiar es [turgranada.es](https://www.turgranada.es/ ), una página de información turística sobre la ciudad de Granada. Ha sido esta nuestra elección debido a que tras examinar varias alternativas, pensamos que es la opción más completa e intuitiva.
 
@@ -24,7 +12,7 @@ Finalmente, [es.madrid.com/donde-dormir](https://www.esmadrid.com/donde-dormir) 
 
 Para terminar, todas las páginas tienen versión web disponible también para móviles, de forma que pueden consultarse en cualquier momento.
 
-### Personas
+## User Persona
 
 En primer lugar hemos creado a Amparo, una señora mayor con poco conocimiento sobre el uso de las tecnologías, lo que le dificulta organizar un viaje por internet.
 
@@ -34,7 +22,7 @@ Asimismo tenemos a Jorge, cuya principal dificultad para llevar a cabo la tarea 
 
 ![](/home/usuario/Documentos/Universidad/DIU/DIU21/P1/img/userPersonaJorge.png)
 
-### 2 User Journey Map  ( 1 por persona)
+## User Journey Map
 
 Las experiencias de Amparo y Jorge son bastante distintas, pero creemos que son situaciones que se dan con frecuencia.
 
@@ -46,7 +34,7 @@ La experiencia de Jorge es muy distinta, pues él no tiene problema en buscar la
 
 ![](./img/journeyMapJorge.png)
 
-### Revisión de Usabilidad 
+## Revisión de Usabilidad 
 
 [**Enlace al documento con la Revison de usabilidad**](./Usability-review-template.xls)
 
@@ -54,7 +42,7 @@ La experiencia de Jorge es muy distinta, pues él no tiene problema en buscar la
 
 En general la página cumple con la mayor parte de funcionalidades y requisitos que el usuario espera de ella, si bien habría que mejorar las búsquedas para que tengan más posibles criterios, añadir una página de ayuda, hacer más claras las acciones a realizar sobre las actividades y esclarecer para qué colectivos son accesibles las distintas actividades disponibles.
 
-### Resumen de la práctica
+## Resumen de la práctica
 
 La página que hemos estudiado resulta bastante intuitiva y útil. Consta de una interfaz bastante gráfica y directa, adaptada a diversos usuarios de muchos ámbitos y que cumple los requisitos de la mayoría de ellos, si bien se podría mejorar sobre todo en temas de accesibilidad a personas con discapacidades o usuarios con bajo nivel de uso de tecnologías aumentando la información en las actividades, añadiendo más criterios de búsqueda y creando una página de ayuda clara.
 
