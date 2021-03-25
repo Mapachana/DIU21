@@ -67,7 +67,7 @@ La experiencia de Jorge es muy distinta, pues él no tiene problema en buscar la
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-[**Enlace al documento con la Revison de usabilidad**](./Usability-review-template.xls)
+[**Enlace al documento con la Revison de usabilidad**](./P1/Usability-review-template.pdf)
 
 **Valoración final: 76 - Good**
 

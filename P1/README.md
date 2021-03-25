@@ -1,3 +1,11 @@
+# Paso 1 UX Desk Research & Analisis
+
+> Autores: Ana Buendía Ruiz-Azuaga y Juan Antonio Villegas Recio
+>
+> Grupo: Marmotas
+>
+> Repositorio: [DIU21](https://github.com/Mapachana/DIU21)
+
 ## Desk research: Análisis Competencia
 
 Nuestra página a estudiar es [turgranada.es](https://www.turgranada.es/ ), una página de información turística sobre la ciudad de Granada. Ha sido esta nuestra elección debido a que tras examinar varias alternativas, pensamos que es la opción más completa e intuitiva.
@@ -16,11 +24,11 @@ Para terminar, todas las páginas tienen versión web disponible también para m
 
 En primer lugar hemos creado a Amparo, una señora mayor con poco conocimiento sobre el uso de las tecnologías, lo que le dificulta organizar un viaje por internet.
 
-![](/home/usuario/Documentos/Universidad/DIU/DIU21/P1/img/userPersonaAmparo.png)
+![](./img/userPersonaAmparo.png)
 
 Asimismo tenemos a Jorge, cuya principal dificultad para llevar a cabo la tarea de organizar un viaje es su falta de presupuesto y la dificultad de encontrar actividades adaptadas para él.
 
-![](/home/usuario/Documentos/Universidad/DIU/DIU21/P1/img/userPersonaJorge.png)
+![](./img/userPersonaJorge.png)
 
 ## User Journey Map
 
@@ -36,7 +44,7 @@ La experiencia de Jorge es muy distinta, pues él no tiene problema en buscar la
 
 ## Revisión de Usabilidad 
 
-[**Enlace al documento con la Revison de usabilidad**](./Usability-review-template.xls)
+[**Enlace al documento con la Revison de usabilidad**](./Usability-review-template.pdf)
 
 **Valoración final: 76 - Good**
 
