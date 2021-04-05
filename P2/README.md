@@ -60,6 +60,12 @@ La aplicación móvil a desarrollar es una plataforma para consultar, organizar 
 * Labelling 
 
 
+
+SItemap:
+
+![](./img/sitemap.png)
+
+
 ### Prototipo Lo-FI Wireframe 
 
 
