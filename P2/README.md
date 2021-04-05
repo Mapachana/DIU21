@@ -21,6 +21,38 @@ La aplicación móvil a desarrollar es una plataforma para consultar, organizar 
 * User Task Matrix 
 * User/Task flow
 
+|        Funcionalidades        | Usuarios no registrados | Usuarios registrados | Agencias de viajes | Administrador |
+| :---------------------------: | ----------------------- | -------------------- | ------------------ | ------------- |
+|      Buscar actividades       | Alta                    | Alta                 | Alta               | Baja          |
+|    Buscar establecimiento     | Alta                    | Alta                 | Alta               | Baja          |
+|     Reservar actividades      | Baja                    | Alta                 | Alta               | Baja          |
+|   Reservar establecimiento    | Baja                    | Alta                 | Alta               | Baja          |
+|       Cancelar reserva        | Baja                    | Media                | Media              | Baja          |
+|   Consultar disponibilidad    | Media                   | Alta                 | Alta               | Baja          |
+|   Añadir actividad a viaje    | Baja                    | Alta                 | Alta               | Baja          |
+|  Eliminar actividad de viaje  | Baja                    | Alta                 | Alta               | Baja          |
+|    Exportar plan de viaje     | Baja                    | Media                | Alta               | Baja          |
+|       Añadir comentario       | Baja                    | Media                | Baja               | Baja          |
+|     Consultar comentarios     | Media                   | Alta                 | Baja               | Alta          |
+|      Eliminar comentario      | Baja                    | Baja                 | Baja               | Media         |
+| Contactar con la institución  | Baja                    | Baja                 | Media              | Baja          |
+|        Consultar ayuda        | Media                   | Media                | Baja               | Baja          |
+|          Registrarse          | Media                   | Baja                 | Baja               | Baja          |
+|        Iniciar sesión         | Baja                    | Alta                 | Alta               | Baja          |
+|         Cerrar sesión         | Baja                    | Alta                 | Alta               | Baja          |
+|         Darse de baja         | Baja                    | Baja                 | Baja               | Baja          |
+|        Cambiar idioma         | Media                   | Media                | Baja               | Baja          |
+| Consultar mapa en tiempo real | Baja                    | Media                | Baja               | Baja          |
+|    Añadir establecimiento     | Baja                    | Baja                 | Baja               | Alta          |
+|   Eliminar establecimiento    | Baja                    | Baja                 | Baja               | Alta          |
+|   Modificar establecimiento   | Baja                    | Baja                 | Baja               | Alta          |
+|       Añadir actividad        | Baja                    | Baja                 | Baja               | Alta          |
+|      Eliminar actividad       | Baja                    | Baja                 | Baja               | Alta          |
+|      Modificar actividad      | Baja                    | Baja                 | Baja               | Alta          |
+|        Banear cuentas         | Baja                    | Baja                 | Baja               | Media         |
+
+
+
 
 ### ARQUITECTURA DE INFORMACIÓN
 
