@@ -65,6 +65,31 @@ SItemap:
 
 ![](./img/sitemap.png)
 
+### Labelling
+
+| Label             | Scope note                                                   | Icon |
+| ----------------- | ------------------------------------------------------------ | ---- |
+| Home              | Página inicial de la aplicación                              |      |
+| Menú              | Menú principal de la aplicación                              |      |
+| Cerrar            | Opción para cerrar el apartado actual                        |      |
+| Imagen            | Representa una imagen                                        |      |
+| Idioma            | Apartado para seleccionar el idioma                          |      |
+| Mis viajes        | Apartado de los viajes creados del usuario                   |      |
+| Contacto          | Apartado para contactar con mantenimiento                    |      |
+| Registrarse/Login | Apartado para iniciar sesión o crearse una cuenta            |      |
+| Ayuda             | Apartado para consultas sobre el uso de la app               |      |
+| Buscar            | Búsquedas en la aplicación                                   |      |
+| Añadir            | Añadir un nuevo evento o una actividad a tu viaje.           |      |
+| Twitter           | Botón para compartir en twitter.                             |      |
+| Instagram         | Botón para compartir en instagram.                           |      |
+| Facebook          | Botón para compartir en facebook                             |      |
+| Google            | Iniciar sesión con google                                    |      |
+| Confirmar         | Botón para indicar que se ha finalizado la acción y se desea guardar |      |
+| Comentarios       | Apartado de comentarios de una actividad                     |      |
+|                   |                                                              |      |
+|                   |                                                              |      |
+
+
 
 ### Prototipo Lo-FI Wireframe 
 
