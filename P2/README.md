@@ -69,16 +69,16 @@ SItemap:
 
 | Label             | Scope note                                                   | Icon                                        |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------- |
-| Home              | Página inicial de la aplicación                              | ![](./img/iconos/)                          |
+| Home              | Página inicial de la aplicación                              | ![](./img/iconos/home.png)                  |
 | Menú              | Menú principal de la aplicación                              | ![](./img/iconos/menu.png)                  |
 | Cerrar            | Opción para cerrar el apartado actual                        | ![](./img/iconos/close.png)                 |
 | Imagen            | Representa una imagen                                        | ![](./img/iconos/picture.png)               |
 | Idioma            | Apartado para seleccionar el idioma                          | ![](./img/iconos/translation.png)           |
-| Mis viajes        | Apartado de los viajes creados del usuario                   | ![](./img/iconos/)                          |
-| Contacto          | Apartado para contactar con mantenimiento                    | ![](./img/iconos/)                          |
+| Mis viajes        | Apartado de los viajes creados del usuario                   | ![](./img/iconos/saved.png)                 |
+| Contacto          | Apartado para contactar con mantenimiento                    | ![](./img/iconos/contact.png)               |
 | Registrarse/Login | Apartado para iniciar sesión o crearse una cuenta            | ![](./img/iconos/log-in.png)                |
 | Ayuda             | Apartado para consultas sobre el uso de la app               | ![](./img/iconos/information.png)           |
-| Buscar            | Búsquedas en la aplicación                                   | ![](./img/iconos/lupa.png)                  |
+| Buscar            | Búsquedas en la aplicación                                   | ![](./img/iconos/search.png)                |
 | Añadir            | Añadir un nuevo viaje, actividad o evento.                   | ![](./img/iconos/add.png)                   |
 | Twitter           | Botón para compartir en twitter.                             | ![](./img/iconos/gorjeo.png)                |
 | Instagram         | Botón para compartir en instagram.                           | ![](./img/iconos/instagram.png)             |
