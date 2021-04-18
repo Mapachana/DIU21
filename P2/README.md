@@ -91,7 +91,7 @@ Explicamos la funcionalidad de cada icono y apartado de la página.
 
 ## Prototipo Lo-FI Wireframe
 
-Hemos realizado un boceto de la aplicación, que se puede consultar aquí.
+Hemos realizado un boceto de la aplicación, que se puede consultar [aquí](./wireframe.pdf).
 
 
 ### Conclusiones  
