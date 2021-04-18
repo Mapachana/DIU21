@@ -65,29 +65,29 @@ Desarrollamos el mapa web de la aplicación, indicando en azul las páginas que 
 
 Explicamos la funcionalidad de cada icono y apartado de la página.
 
-| Label             | Scope note                                                   | Icon                                |
-| :---------------- | ------------------------------------------------------------ | ----------------------------------- |
-| Home              | Página inicial de la aplicación                              | ![](./img/iconos/groundhog.png)     |
-| Menú              | Menú principal de la aplicación                              | ![](./img/iconos/menu.png)          |
-| Accesibilidad     | Indica si una actividad o establecimiento es accesible       | ![](./img/iconos/discapacitado.png) |
-| Imagen            | Representa una imagen                                        | ![](./img/iconos/picture.png)       |
-| Idioma            | Apartado para seleccionar el idioma                          | ![](./img/iconos/translation.png)   |
-| Mis viajes        | Apartado de los viajes creados del usuario                   | ![](./img/iconos/airplane.png)      |
-| Contacto          | Apartado para contactar con mantenimiento                    | ![](./img/iconos/contact.png)       |
-| Registrarse/Login | Apartado para iniciar sesión o crearse una cuenta            | ![](./img/iconos/log-in.png)        |
-| Logout            | Cerrar sesión actual                                         | ![](./img/iconos/log-out.png)       |
-| Ayuda             | Apartado para consultas sobre el uso de la app               | ![](./img/iconos/information.png)   |
-| Buscar            | Búsquedas en la aplicación                                   | ![](./img/iconos/search.png)        |
-| Añadir            | Crear un nuevo viaje o añadir una actividad o evento a un viaje existente. | ![](./img/iconos/add.png)           |
-| Twitter           | Botón para compartir o iniciar sesión con twitter.           | ![](./img/iconos/gorjeo.png)        |
-| Instagram         | Botón para compartir en instagram.                           | ![](./img/iconos/instagram.png)     |
-| Facebook          | Botón para compartir o iniciar sesión con facebook           | ![](./img/iconos/facebook.png)      |
-| Google            | Iniciar sesión con google..                                  | ![](./img/iconos/google.png)        |
-| Actividad         | Apartado de actividades.                                     | ![](./img/iconos/activity.png)      |
-| Establecimiento   | Apartado de establecimientos.                                | ![](./img/iconos/museum.png)        |
-| Comentarios       | Apartado de comentarios de una actividad                     | ![](./img/iconos/speech-bubble.png) |
-| Editar            | Editar una actividad o evento.                               | ![](./img/iconos/edit-button.png)   |
-| Borrar            | Borrar un viaje, actividad o evento.                         | ![](./img/iconos/delete.png)        |
+| Label             | Scope note                                                   | Icon                                                         |
+| :---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Home              | Página inicial de la aplicación                              | <img src="./img/iconos/groundhog.png" style="zoom:25%;" />   |
+| Menú              | Menú principal de la aplicación                              | <img src="./img/iconos/menu.png" style="zoom:25%;" />        |
+| Accesibilidad     | Indica si una actividad o establecimiento es accesible       | <img src="./img/iconos/discapacitado.png" style="zoom:25%;" /> |
+| Imagen            | Representa una imagen                                        | <img src="./img/iconos/picture.png" style="zoom:25%;" />     |
+| Idioma            | Apartado para seleccionar el idioma                          | <img src="./img/iconos/translation.png" style="zoom:25%;" /> |
+| Mis viajes        | Apartado de los viajes creados del usuario                   | <img src="./img/iconos/airplane.png" style="zoom:25%;" />    |
+| Contacto          | Apartado para contactar con mantenimiento                    | <img src="./img/iconos/contact.png" style="zoom:25%;" />     |
+| Registrarse/Login | Apartado para iniciar sesión o crearse una cuenta            | <img src="./img/iconos/log-in.png" style="zoom:25%;" />      |
+| Logout            | Cerrar sesión actual                                         | <img src="./img/iconos/log-out.png" style="zoom:25%;" />     |
+| Ayuda             | Apartado para consultas sobre el uso de la app               | <img src="./img/iconos/information.png" style="zoom:25%;" /> |
+| Buscar            | Búsquedas en la aplicación                                   | <img src="./img/iconos/search.png" style="zoom:25%;" />      |
+| Añadir            | Crear un nuevo viaje o añadir una actividad o evento a un viaje existente. | <img src="./img/iconos/add.png" style="zoom:25%;" />         |
+| Twitter           | Botón para compartir o iniciar sesión con twitter.           | <img src="./img/iconos/gorjeo.png" style="zoom:25%;" />      |
+| Instagram         | Botón para compartir en instagram.                           | <img src="./img/iconos/instagram.png" style="zoom:25%;" />   |
+| Facebook          | Botón para compartir o iniciar sesión con facebook           | <img src="./img/iconos/facebook.png" style="zoom:25%;" />    |
+| Google            | Iniciar sesión con google..                                  | <img src="./img/iconos/google.png" style="zoom:25%;" />      |
+| Actividad         | Apartado de actividades.                                     | <img src="./img/iconos/activity.png" style="zoom:25%;" />    |
+| Establecimiento   | Apartado de establecimientos.                                | <img src="./img/iconos/museum.png" style="zoom:25%;" />      |
+| Comentarios       | Apartado de comentarios de una actividad                     | <img src="./img/iconos/speech-bubble.png" style="zoom:25%;" /> |
+| Editar            | Editar una actividad o evento.                               | <img src="./img/iconos/edit-button.png" style="zoom:25%;" /> |
+| Borrar            | Borrar un viaje, actividad o evento.                         | <img src="./img/iconos/delete.png" style="zoom:25%;" />      |
 
 ## Prototipo Lo-FI Wireframe
 
