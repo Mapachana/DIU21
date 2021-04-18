@@ -1,25 +1,26 @@
-## DIU - Practica2, entregables
+# DIU - Practica2, entregables
 
-### Ideación 
-* Malla receptora de información  <-
-* Mapa de empatía
-* Point of View 
+> Autores: Ana Buendía Ruiz-Azuaga y Juan Antonio Villegas Recio
+>
+> Grupo: Marmotas
+>
+> Repositorio: [DIU21](https://github.com/Mapachana/DIU21)
+
+## Ideación
+
+Hemos realizado una malla receptora de información basándonos en las experiencias de nuestros usuarios ficticios de la práctica 1. Para ello, nos hemos planteado qué sugerencias podrían tener los usuarios y cuáles tendrían los desarrolladores, aportando así nuestro propio enfoque del problema.
 
 ![](./img/feedback_capture_grid.png)
 
-### PROPUESTA DE VALOR
-
-* ScopeCanvas
+## Propuesta de valor
 
 La aplicación móvil a desarrollar es una plataforma para consultar, organizar y planificar viajes. La plataforma pondrá a disposición del usuario información sobre actividades culturales, hoteles, lugares emblemáticos y monumentos, de forma que pueda realizarse fácilmente un itinerario completo del viaje de una manera sencilla e intuitiva.
 
 ![](./img/scope_canvas.png)
 
+## Task analysis
 
-### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
+Una vez recogidas las propuestas de los usuarios y las nuestras propias, clasificamos las tareas principales de la plataforma y su grado de utilización según los distintos perfiles de los usuarios.
 
 |        Funcionalidades        | Usuarios no registrados | Usuarios registrados | Agencias de viajes | Administrador |
 | :---------------------------: | ----------------------- | -------------------- | ------------------ | ------------- |
@@ -52,47 +53,48 @@ La aplicación móvil a desarrollar es una plataforma para consultar, organizar 
 |        Banear cuentas         | Baja                    | Baja                 | Baja               | Media         |
 
 
+### ## Arquitecturas de información
 
+### Sitemap
 
-### ARQUITECTURA DE INFORMACIÓN
-
-* Sitemap 
-* Labelling 
-
-
-
-SItemap:
+Desarrollamos el mapa web de la aplicación, indicando en azul las páginas que puede usar cualquier usuario (no registrados, registrados y agencias de viajes), en morado las que solo pueden usar usuarios registrados y agencias de viajes y en rojo el administrador de la aplicación.
 
 ![](./img/sitemap.png)
 
 ### Labelling
 
-| Label             | Scope note                                                   | Icon                                        |
-| ----------------- | ------------------------------------------------------------ | ------------------------------------------- |
-| Home              | Página inicial de la aplicación                              | ![](./img/iconos/home.png)                  |
-| Menú              | Menú principal de la aplicación                              | ![](./img/iconos/menu.png)                  |
-| Cerrar            | Opción para cerrar el apartado actual                        | ![](./img/iconos/close.png)                 |
-| Imagen            | Representa una imagen                                        | ![](./img/iconos/picture.png)               |
-| Idioma            | Apartado para seleccionar el idioma                          | ![](./img/iconos/translation.png)           |
-| Mis viajes        | Apartado de los viajes creados del usuario                   | ![](./img/iconos/saved.png)                 |
-| Contacto          | Apartado para contactar con mantenimiento                    | ![](./img/iconos/contact.png)               |
-| Registrarse/Login | Apartado para iniciar sesión o crearse una cuenta            | ![](./img/iconos/log-in.png)                |
-| Ayuda             | Apartado para consultas sobre el uso de la app               | ![](./img/iconos/information.png)           |
-| Buscar            | Búsquedas en la aplicación                                   | ![](./img/iconos/search.png)                |
-| Añadir            | Añadir un nuevo viaje, actividad o evento.                   | ![](./img/iconos/add.png)                   |
-| Twitter           | Botón para compartir en twitter.                             | ![](./img/iconos/gorjeo.png)                |
-| Instagram         | Botón para compartir en instagram.                           | ![](./img/iconos/instagram.png)             |
-| Facebook          | Botón para compartir en facebook                             | ![](./img/iconos/facebook.png)              |
-| Google            | Iniciar sesión con google                                    | ![](./img/iconos/google.png)                |
-| Confirmar         | Botón para indicar que se ha finalizado la acción y se desea guardar | ![](./img/iconos/marca-de-verificacion.png) |
-| Comentarios       | Apartado de comentarios de una actividad                     | ![](./img/iconos/speech-bubble.png)         |
-| Editar            | Editar un viaje, actividad o evento.                         | ![](./img/iconos/edit-button.png)           |
-| Borrar            | Borrar un viaje, actividad o evento.                         | ![](./img/iconos/delete.png)                |
+Explicamos la funcionalidad de cada icono y apartado de la página.
 
+| Label             | Scope note                                                   | Icon                                |
+| :---------------- | ------------------------------------------------------------ | ----------------------------------- |
+| Home              | Página inicial de la aplicación                              | ![](./img/iconos/groundhog.png)     |
+| Menú              | Menú principal de la aplicación                              | ![](./img/iconos/menu.png)          |
+| Accesibilidad     | Indica si una actividad o establecimiento es accesible       | ![](./img/iconos/discapacitado.png) |
+| Imagen            | Representa una imagen                                        | ![](./img/iconos/picture.png)       |
+| Idioma            | Apartado para seleccionar el idioma                          | ![](./img/iconos/translation.png)   |
+| Mis viajes        | Apartado de los viajes creados del usuario                   | ![](./img/iconos/airplane.png)      |
+| Contacto          | Apartado para contactar con mantenimiento                    | ![](./img/iconos/contact.png)       |
+| Registrarse/Login | Apartado para iniciar sesión o crearse una cuenta            | ![](./img/iconos/log-in.png)        |
+| Logout            | Cerrar sesión actual                                         | ![](./img/iconos/log-out.png)       |
+| Ayuda             | Apartado para consultas sobre el uso de la app               | ![](./img/iconos/information.png)   |
+| Buscar            | Búsquedas en la aplicación                                   | ![](./img/iconos/search.png)        |
+| Añadir            | Crear un nuevo viaje o añadir una actividad o evento a un viaje existente. | ![](./img/iconos/add.png)           |
+| Twitter           | Botón para compartir o iniciar sesión con twitter.           | ![](./img/iconos/gorjeo.png)        |
+| Instagram         | Botón para compartir en instagram.                           | ![](./img/iconos/instagram.png)     |
+| Facebook          | Botón para compartir o iniciar sesión con facebook           | ![](./img/iconos/facebook.png)      |
+| Google            | Iniciar sesión con google..                                  | ![](./img/iconos/google.png)        |
+| Actividad         | Apartado de actividades.                                     | ![](./img/iconos/activity.png)      |
+| Establecimiento   | Apartado de establecimientos.                                | ![](./img/iconos/museum.png)        |
+| Comentarios       | Apartado de comentarios de una actividad                     | ![](./img/iconos/speech-bubble.png) |
+| Editar            | Editar una actividad o evento.                               | ![](./img/iconos/edit-button.png)   |
+| Borrar            | Borrar un viaje, actividad o evento.                         | ![](./img/iconos/delete.png)        |
 
+## Prototipo Lo-FI Wireframe
 
-### Prototipo Lo-FI Wireframe 
+Hemos realizado un boceto de la aplicación, que se puede consultar aquí.
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Hemos diseñado la aplicación intentando centrarnos en los aspectos más relevantes, como son los iconos usados para que resulten intuitivos al usuario y la distribución de las pantallas, de forma que no estén sobrecargadas en ningún momento.
+
+También hemos tenido en cuenta para el diseño las necesidades de nuestras personas ficticias de la práctica 1, Jorge y Amparo, por lo que hemos procurado una letra clara con tamaño grande e intentado ofrecer información sobre la accesibilidad de cada actividad y establecimiento de forma rápida.
