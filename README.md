@@ -2,14 +2,15 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU2_Marmotas.  Curso: 2020/21 
-Updated: 8/2/2021
+Updated: 18/4/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> MarmotaGranada
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Aplicación oficial del Ayuntamiento de Granada para planificar viajes y obtener información sobre actividades y estalbecimientos en la ciudad de manera sencilla y accesible en cualquier momento.
+De esta forma todo el mundo podrá visitar Granada de forma segura y compartir sus experiencias con los demás. 
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
