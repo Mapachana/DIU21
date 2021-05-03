@@ -53,7 +53,7 @@ Una vez recogidas las propuestas de los usuarios y las nuestras propias, clasifi
 |        Banear cuentas         | Baja                    | Baja                 | Baja               | Media         |
 
 
-### ## Arquitecturas de información
+### Arquitecturas de información
 
 ### Sitemap
 
