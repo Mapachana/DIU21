@@ -198,6 +198,78 @@ Hemos realizado un boceto de la aplicación, que se puede consultar [aquí](./P2
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
+PATRONES A USAR
+
+Los hemos sacado de la página http://ui-patterns.com/patterns
+
+### Forms
+
+http://ui-patterns.com/patterns/PasswordStrengthMeter
+
+http://ui-patterns.com/patterns/CalendarPicker
+
+http://ui-patterns.com/patterns/InputFeedback
+
+http://ui-patterns.com/patterns/morphing-controls
+
+http://ui-patterns.com/patterns/rule-builder
+
+http://ui-patterns.com/patterns/expandable-input
+
+http://ui-patterns.com/patterns/InputPrompt
+
+### explaining the process
+
+http://ui-patterns.com/patterns/InlineHelpBox
+
+http://ui-patterns.com/patterns/Wizard
+
+### jumping in hierarchy
+
+http://ui-patterns.com/patterns/HomeLink
+
+### menu
+
+http://ui-patterns.com/patterns/VerticalDropdownMenu
+
+### content
+
+http://ui-patterns.com/patterns/Carousel
+
+http://ui-patterns.com/patterns/AdaptableView
+
+http://ui-patterns.com/patterns/EventCalendar
+
+http://ui-patterns.com/patterns/categorization
+
+http://ui-patterns.com/patterns/ContinuousScrolling
+
+http://ui-patterns.com/patterns/Tag
+
+http://ui-patterns.com/patterns/favorites
+
+### formatting data
+
+http://ui-patterns.com/patterns/frequently-asked-questions-faq
+
+### gallery
+
+http://ui-patterns.com/patterns/Gallery
+
+quiza si pero no creo: http://ui-patterns.com/patterns/Slideshow
+
+### search
+
+http://ui-patterns.com/patterns/LiveFilter
+
+### social
+
+http://ui-patterns.com/patterns/testimonials
+
+### registration
+
+http://ui-patterns.com/patterns/LazyRegistration
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
