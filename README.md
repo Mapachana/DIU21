@@ -184,6 +184,8 @@ Hemos realizado un boceto de la aplicación, que se puede consultar [aquí](./P2
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>
+>>https://app.milanote.com/1LDCs11jw1Z9bR/prctica-diu?p=Nh201TNrs4N
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
@@ -191,6 +193,8 @@ Hemos realizado un boceto de la aplicación, que se puede consultar [aquí](./P2
 
 
 >>> Plantear Landing Page 
+>>
+>>https://www.figma.com/file/I2qVmkvySirzI63V07ebQK/Untitled?node-id=0%3A1
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
