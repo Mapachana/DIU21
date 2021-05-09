@@ -208,25 +208,11 @@ Los hemos sacado de la página http://ui-patterns.com/patterns
 
 ### Forms
 
-http://ui-patterns.com/patterns/PasswordStrengthMeter
-
 http://ui-patterns.com/patterns/CalendarPicker
 
 http://ui-patterns.com/patterns/InputFeedback
 
-http://ui-patterns.com/patterns/morphing-controls
-
-http://ui-patterns.com/patterns/rule-builder
-
-http://ui-patterns.com/patterns/expandable-input
-
 http://ui-patterns.com/patterns/InputPrompt
-
-### explaining the process
-
-http://ui-patterns.com/patterns/InlineHelpBox
-
-http://ui-patterns.com/patterns/Wizard
 
 ### jumping in hierarchy
 
@@ -238,10 +224,6 @@ http://ui-patterns.com/patterns/VerticalDropdownMenu
 
 ### content
 
-http://ui-patterns.com/patterns/Carousel
-
-http://ui-patterns.com/patterns/AdaptableView
-
 http://ui-patterns.com/patterns/EventCalendar
 
 http://ui-patterns.com/patterns/categorization
@@ -249,8 +231,6 @@ http://ui-patterns.com/patterns/categorization
 http://ui-patterns.com/patterns/ContinuousScrolling
 
 http://ui-patterns.com/patterns/Tag
-
-http://ui-patterns.com/patterns/favorites
 
 ### formatting data
 
@@ -260,15 +240,9 @@ http://ui-patterns.com/patterns/frequently-asked-questions-faq
 
 http://ui-patterns.com/patterns/Gallery
 
-quiza si pero no creo: http://ui-patterns.com/patterns/Slideshow
-
 ### search
 
 http://ui-patterns.com/patterns/LiveFilter
-
-### social
-
-http://ui-patterns.com/patterns/testimonials
 
 ### registration
 
