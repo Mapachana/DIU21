@@ -179,67 +179,64 @@ Hemos realizado un boceto de la aplicación, que se puede consultar [aquí](./P2
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Para comenzar hemos realizado un moodboard, usando imágenes que representan los lugares más emblemáticos, mosaicos y diversos paisajes de Granada. La paleta de colores está inspirada en los colores de la Alhambra y sus mosaicos, colores que hemos usado para la realización del logo, landingpage y aplicación.
+
+Como fuentes hemos elegido `Lobster` para el logo y slogan y `Source Serif Pro` para el resto del texto. 
+
+El logotipo ha sido diseñado usando [esta página](https://www.tailorbrands.com/es/logo-maker), buscando un diseño sencillo, claro y minimalista que sea representativo de nuestra ciudad, así como hemos hecho con los iconos de la aplicación.
+
 ![](./P3/moodboard.png)
 
-En nuestro [moodboard](https://app.milanote.com/1LDCs11jw1Z9bR/prctica-diu?p=Nh201TNrs4N) se puede contemplar que hemos recurrido a colores que recuerdan a la ciudad de Granada, a los mosaicos de la conocida Alhambra y a sus paisajes, sensaciones que hemos querido reflejar mediante las imágenes utilizadas. Respecto a las fuentes, hemos elegido *Lobster* para títulos principales y nuestro eslogan: '*Granada, más fácil*'. Junto a esta, utilizamos *Source Serif Pro* en sus diversas formas. Sobre el logotipo, ha sido diseñado utilizando la herramienta ("Insert herramienta"), buscando un diseño sencillo, claro y minimalista que al mismo tiempo sea representativo de nuestra ciudad. 
-
+![](./P3/iconos.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-Presentamos el diseño de nuestra 'Landing Page' en el siguiente [enlace](./P3/Landingpage.pdf).
+También hemos realizado una landingpage del proyecto, usando de nuevo la paletta de colores escogida anteriormente y las fuentes.
+
+Hemos intentado primar la simplicidad del diseño optando por un esquema más visual, transmitiendo el mensaje mediante imágenes y manteniendo el texto al mínimo.
+
+La landing page se puede consultar [aquí](https://github.com/Mapachana/DIU21/blob/master/P3/landingpage.pdf).
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
+Para decidir qué patrones debemos usar en nuestra aplicación, comenzamos analizando las distintas necesidades de los usuarios, qué esperan de nuestra aplicación (para lo cuál hemos recurrido de nuevo a las personas ficticias de la primera práctica) y qué soluciones a estos requisitos se ajustan mejor.
+
 Tras un estudio de los diversos patrones disponibles en la web [ui-patterns.com](http://ui-patterns.com/patterns) los diversos patrones que consideramos en nuestro diseño fueron los a continuación listados:
 
-### Forms
+* [**Calendar picker**](http://ui-patterns.com/patterns/CalendarPicker): Necesario a la hora de filtrar búsquedas según fechas, para poder elegir intervalos de tiempo o días consultando directamente un calendario. Este patrón nos resultará especialmente útil en el buscador de la aplicación.
 
-* [**Calendar picker**](http://ui-patterns.com/patterns/CalendarPicker): Necesario a la hora de filtrar búsquedas según fechas, para poder elegir intervalos de tiempo o días consultando directamente un calendario. 
+* [**Input Feedbak**](http://ui-patterns.com/patterns/InputFeedback): Útil cuando un usuario introduce ciertos datos, permitiendo que compruebe por sí mismo y símbolos visuales que los datos introducidos son válidos. Lo usaremos tanto al registrarse como en el apartado de ayuda, que los usuarios pueden usar para contactar.
 
-* [**Input Feedbak**](http://ui-patterns.com/patterns/InputFeedback): Útil cuando un usuario introduce ciertos datos, permitiendo que compruebe por sí mismo y símbolos visuales que los datos introducidos son válidos.
+* [**Input Prompt**](http://ui-patterns.com/patterns/InputPrompt): Utilizado en el buscador para expresar claramente su funcionalidad. De nuevo, será encesario en el buscador y apartado de contacto para esclarecer la infomación que se requiere en cada apartado.
 
-* [**Input Prompt**](http://ui-patterns.com/patterns/InputPrompt): Utilizado en el buscador para expresar claramente su funcionalidad.
-
-### Jumping in hierarchy
-
-* [**Home Link**](http://ui-patterns.com/patterns/HomeLink): Utilizamos el logo de la aplicación como enlace directo y desde cualquier página a la página principal (Home).
-
-### Menu
+* [**Home Link**](http://ui-patterns.com/patterns/HomeLink): Utilizamos el logo de la aplicación como enlace directo y desde cualquier página a la página principal (Home). Este patrón afecta a toda la aplicación, haciendo siempre accesible el home de la aplicación en cualquier momento.
 
 * [**Vertical Dropdown Menu**](http://ui-patterns.com/patterns/VerticalDropdownMenu): Principalmente utilizado en el menú lateral de la aplicación, accesible desde cualquier ubicación y desplegable, ahorrando espacio de pantalla.
 
-### Content
-
 * [**Event Calendar**](http://ui-patterns.com/patterns/EventCalendar): Es intuitivo a la hora de listar actividades con fechas concretas hacerlo siguiendo el orden cronológico que establecen.
 
-* [**Categorization**](http://ui-patterns.com/patterns/categorization): Agrupamos en categorías limitadas y sin ambigüedad el contenido y las distintas posibilidades que ofrece Granada.
+* [**Categorization**](http://ui-patterns.com/patterns/categorization): Agrupamos en categorías limitadas y sin ambigüedad el contenido y las distintas posibilidades que ofrece Granada. En nuestro caso, hay dos claros ejemplos de clasificación: actividades y establecimientos.
 
 * [**Continuous Scrolling**](http://ui-patterns.com/patterns/ContinuousScrolling): Las listas de actividades, establecimientos o las preguntas frecuentes (faq) se encuentran en una misma página que las lista, pudiendo acceder a todas ellas haciendo scroll en la página adecuada.
 
-* [**Tagging**](http://ui-patterns.com/patterns/Tag): Las diversas actividades y establecimientos ofertados admiten etiquetas que ayudan a localizarlos.
+* [**Tagging**](http://ui-patterns.com/patterns/Tag): Las diversas actividades y establecimientos ofertados admiten etiquetas para simplificar las búsquedas según temas.
 
-### Formatting data
+* [**Frequently Asked Questions (FAQ)**](http://ui-patterns.com/patterns/frequently-asked-questions-faq): Dedicamos una sección de la app a preguntas que suelen repetir los usuarios, de manera que los mismos tengan acceso rápido y sencillo a soluciones frecuentes, facilitando el uso de la aplicación a nuevos usuarios o personas con poco conocimiento en el campo de tecnologías, así como evitamos una saturación del contacto.
 
-* [**Frequently Asked Questions (FAQ)**](http://ui-patterns.com/patterns/frequently-asked-questions-faq): Dedicamos una sección de la app a preguntas que suelen repetir los usuarios, pudiendo así evitar muchas confusiones.
+* [**Gallery**](http://ui-patterns.com/patterns/Gallery): Utilizamos amplias galerías de imágenes en cada actividad y establecimiento para mostrar los mismos a los diversos usuarios.
 
-### Gallery
+* [**Live Filter**](http://ui-patterns.com/patterns/LiveFilter): En el buscador utilizamos varios filtros de distintos tipo para que el usuario haga la búsqueda que más se ajuste a sus necesidades.
 
-* [**Gallery**](http://ui-patterns.com/patterns/Gallery): Utilizamos amplias galerías de imágenes en cada actividad y establecimiento para así hacer propuestas visuales a los posibles clientes.
-
-### Search
-
-* [**Live Filter**](http://ui-patterns.com/patterns/LiveFilter): En el buscador utilizamos varios filtros de distinto tipo para que el usuario haga la búsqueda que más se ajuste a sus necesidades.
-
-### Registration
-
-* [**Lazy Registration**](http://ui-patterns.com/patterns/LazyRegistration): Permitimos que cualquier usuario que acceda a la app pueda navegar sin ningún problema antes de registrarse, la cual sí sería necesaria en caso de querer interactuar.
+* [**Lazy Registration**](http://ui-patterns.com/patterns/LazyRegistration): Permitimos que cualquier usuario que acceda a la app pueda navegar sin ningún problema sin necesidad de registrarse.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-Basándonos en los 'wireframe' que diseñamos en la práctica 2 y utilizando las fuentes, colores, logo... que hemos creado y estudiado anteriormente, recogemos nuestra propuesta de bocetos Hi-Fi (mockup) en [este documento](./P3/mockup.pdf) .
+Basándonos en los wireframe que diseñamos en la práctica anterior y utilizando las fuentes, paleta de colores, y logo que hemos creado y estudiado anteriormente, recogemos nuestra propuesta de bocetos Hi-Fi (mockup) en [este documento](https://github.com/Mapachana/DIU21/blob/master/P3/mockup.pdf) .
+
+Este mockup se ha diseñado con Figma y puede consultarse [aquí](https://www.figma.com/file/MLUxVUx6N19gKJSYwIf8Nu/wireframe?node-id=0%3A1), donde puede probarse la simulación del mismo.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
@@ -247,29 +244,27 @@ Basándonos en los 'wireframe' que diseñamos en la práctica 2 y utilizando las
 
 ### Inspiración
 
-Durante el desarrollo de la primera práctica, creamos y nos pusimos en el lugar de Amparo y Jorge, dos personas muy diferentes pero con ciertas necesidades que no les permitían organizar un viaje a Granada de forma sencilla con las distintas páginas de turismo habituales. Observamos que Amparo tenía dificultades para navegar debido a la complejidad de muchas web ante sus dificultades con las nuevas tecnologías, derivadas de su edad y del hecho de que estaba empezando a perder la vista. Por otro lado, Jorge estaba acostumbrado al uso y manejo de internet y redes, pero sufría de una discapacidad, Jorge era sordo, y siempre intentaba buscar actividades accesibles para él. Sin embargo, la mayoría de las web no ofrecían gran detalle sobre el turismo accesible. Además, su presupuesto era limitado, pero la información sobre precios era también muy escasa.
+VisitaGranada surge como iniciativa para ofrecer a los usuarios una aplicación oficial con toda la información sobre todas las actividades, visitas y establecimientos que pueden encontrarse en Granada de forma clara, intuitiva y accesible para todos los usuarios.
 
-Estudiando las experiencias de estas dos personas, decidimos solucionar sus problemas mediante nuestro propio diseño de app: **VisitaGranada**.
+Primeramente, vemos las experiencias de Amparo y Jorge, dos personas muy diferentes que tuvieron problemas al reservar un viaje a Granada por us circunstancias con las distintas páginas de turismo habituales. Observamos que Amparo tenía dificultades para navegar debido a la complejidad de muchas web ante sus dificultades con las nuevas tecnologías, derivadas de su edad y del hecho de que estaba empezando a perder la vista. Por otro lado, Jorge estaba acostumbrado al uso y manejo de internet y redes, pero sufría de una discapacidad, Jorge era sordo, y siempre intentaba buscar actividades accesibles para él. Sin embargo, la mayoría de las web no ofrecían gran detalle sobre el turismo accesible. Además, su presupuesto era limitado, y muchas páginas no permiten filtrar por precios
 
 ### Primeros pasos
 
-Gracias a las vivencias de estas dos personas, y también a las nuestras propias, recogimos una serie de ideas y objetivos mediante la 'Feedback Capture Grid' y el 'Scope Canvas' que posteriormente se reflejarían en nuestro propio diseño. Pensamos que los usuarios más probables eran los propios posibles clientes, registrados o sin registrar, agencias de viajes que buscasen actividades que hacer y lugares que visitar y usuarios administradores que se encargaran del mantenimiento de la app.
+Gracias a las vivencias de estas dos personas, y también a las nuestras propias, recogimos una serie de ideas y objetivos mediante la malla receptora de información y el Scope Canvas que posteriormente se reflejarían en nuestro propio diseño. Pensamos que los usuarios más probables eran los propios posibles clientes, registrados o sin registrar, agencias de viajes que buscasen actividades que hacer y lugares que visitar y usuarios administradores que se encargaran del mantenimiento de la app. Así, ordenamos las funcionalidades que requería cada tipo de usuario según prioridad.
 
 Con estas premisas creamos nuestros primeros bocetos de aplicación: los 'wireframe', que eran una primera versión muy simplificada de las ideas que en las siguientes fases formalizariamos, el esqueleto de nuestra aplicación.
 
 ### Desarrollo de los diseños
 
-Una vez asentada la idea, pensada la funcionalidad y diseñada la estructura de nuestra aplicación, tocaba darle vida al proyecto. Para empezar, creamos un moodboard que recogiera todo lo que queríamos reflejar en el diseño de nuestra página: imágenes, colores representativos, un logo, fuentes que utilizaríamos... 
+Una vez asentada la idea, pensada la funcionalidad y diseñada la estructura de nuestra aplicación, tocaba darle vida al proyecto. Para empezar, creamos un moodboard que recogiera todo lo que queríamos reflejar en el diseño de nuestra página: imágenes, colores representativos, un logo, fuentes que utilizaríamos. Así, dotamos de identidad a VisitaGranada.
 
-Ya con esas decisiones tomadas, que aún no sabíamos que no eran definitivas, diseñamos una 'landing page' que llamara la atención de los posibles usuarios que llegaran a ella. En el encabezado, una imagen principal de la Alhambra de Granada, monumento mundialmente conocido, junto con el nombre de nuestro sitio y la posibilidad de descargar la app. Si de un primer vistazo el usuario no se convenció, expusimos algunas de las funcionalidades que propone nuestra app, acompañadas de imágenes sugerentes que llamarían la atención de cualquier turista. Por último, a modo de pie de página, de nuevo un enlace de descarga y links a nuestras redes sociales. La 'landing page', como no podía ser de otra forma, se diseñó cuidadosamente y siguiendo las normas que nosotros mismos nos marcamos al crear el moodboard.
+Diseñamos una landing page que llamara la atención de los posibles usuarios tratando de hacerla simple y atractiva, dándole una gran importancia a la componente visual de la misma y reforzando las ventajas de usar nuestra aplicación.
 
-Una vez creada la landing page y con las ideas asimiladas, buscamos posibles patrones de diseño de interfaces de usuario que se ajustaran a nuestras ideas, diseños y funcionalidades. Realizamos una exhaustiva búsqueda en la web [ui-patterns.com](http://ui-patterns.com/patterns), comparando patrones entre sí y buscando cuáles se podrían ajustar más y mejor a nuestra propuesta.
-
-Ya con todos los ingredientes necesarios, retomamos los diseños que creamos anteriormente (wireframe) para darles un nuevo formato de acuerdo con la nueva apariencia. Utilizamos 'layout grid' para ajustar el tamaño de cada elemento de cada página diseñada, cambiamos las fuentes simples de los 'wireframe' por las que propusimos en el 'moodboard', ajustamos los colores a nuestra paleta, y dimos en general un aspecto amigable, sencillo, intuitivo, y sin olvidar las necesidades que vimos en nuestras personas ficticias.
+Finalmente, analizamos patrones de diseño que se ajustaran a las necesidades de los usuarios y retomamos los diseños que creamos anteriormente para dotarlos de la identidad de la aplicación. 
 
 ### Conclusión
 
-Inspirandonos en experiencias ficticias de personas ficticias, pudimos desarrollar el diseño completo de una aplicación. Desde la simple inspiración a la finalización del diseño, hemos aprendido las numerosas técnicas recurrentes para crear diseños intuitivos y útiles.
+Inspirandonos en experiencias de personas ficticias, pudimos desarrollar el diseño completo de una aplicación centrándonos en las necesidades de los usuarios a la par que aprendíamos técnicas de branding para hacer nuestra aplicación atractiva. Así, hemos obtenido una aplicación intuitiva y sencilla que cubre las necesidades básicas de sus usuarios.
 
 
 ## Paso 4. Evaluación 
