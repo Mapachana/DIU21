@@ -289,8 +289,8 @@ Inspirandonos en experiencias de personas ficticias, pudimos desarrollar el dise
 
 Se nos han asignado dos casos : el caso A (nuestro propio proyecto) y el caso B (proyecto del grupo Lex).
 
-* [Enlace al repositorio del caso A (Marmotas)](https://github.com/Mapachana/DIU21)
-* [Enlace al repositorio del caso B (Lex)](https://github.com/lawvp/DIU21)
+* Nuestra aplicación: [(Marmotas)](https://github.com/Mapachana/DIU21)
+* Caso a evaluar: [(Lex)](https://github.com/lawvp/DIU21)
 
 ## Caso A
 
@@ -328,12 +328,12 @@ El tercer usuario es Víctor, de 26 años, un físico que trabaja en la Universi
 
 El cuarto usuario es Cecilia, una estudiante de turismo de 24 años.
 
-| id   | Género/Edad | Ocupación   | Experiencia internet | Plataforma | Perfil cubierto       | Test | SUS Score |
-| ---- | ----------- | ----------- | -------------------- | ---------- | --------------------- | ---- | --------- |
-| 1    | Hombre, 23  | Estudiante  | Alta                 | Android    | Estudiante, tranquilo | A    | 77.5      |
-| 2    | Mujer, 57   | Ama de casa | Baja                 | Android    | Desempleada, feliz    | A    | 80        |
-| 3    | Hombre, 26  | Físico      | Alta                 | Android    | Trabajador, tranquilo | B    | 67.5      |
-| 4    | Mujer, 24   | Estudiante  | Baja                 | Android    | Estudiante, enfadado  | B    | 67.5      |
+| id   | Género/Edad | Ocupación   | Experiencia internet | Plataforma | Pesonalidad  | Test | SUS Score |
+| ---- | ----------- | ----------- | -------------------- | ---------- | ------------ | ---- | --------- |
+| 1    | Hombre, 23  | Estudiante  | Alta                 | Android    | Introvertido | A    | 77.5      |
+| 2    | Mujer, 57   | Ama de casa | Baja                 | Android    | Extrovertida | A    | 80        |
+| 3    | Hombre, 26  | Físico      | Alta                 | Android    | Racional     | B    | 67.5      |
+| 4    | Mujer, 24   | Estudiante  | Baja                 | Android    | Introvertida | B    | 67.5      |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -387,7 +387,11 @@ Finalmente, respecto a la comparativa de A/B, aunque haya diferencia de puntos, 
 
 ## Conclusión final / Valoración de las prácticas
 
-En este proceso de aprendizaje hemos aprendido muchas y diversas técnicas para hacer un buen diseño de una aplicación, en este caso, de turismo en Granada. Algunas de ellas consideramos que nos han venido muy bien a la hora de orientar nuestros diseños, como la creación de personas ficticias o la malla receptora de información. Gracias a todas ellas hemos conseguido hacer un diseño de aplicación que se ajuste a las necesidades de un amplio colectivo de personas. No cabe duda que algunas de estas técnicas nos han hecho mejorar e ir poco a poco mejorando nuestras ideas, representando un cambio significativo respecto a lo que quizá habríamos hecho sin disponer de ellas. No ha sido fácil mantener la coherencia y el carisma de la aplicación en todo momento, pero creemos que gracias a ello le hemos aportado al diseño un toque personal que esperamos pueda ser de agrado a todos los usuarios.
+A lo largo de las prácticas hemos aprendido y desarrollado diversas técnicas sobre como debe ser un diseño e interfaz de una aplicación o web para que sea cómoda, intuitiva, útil y accesible a todos los usuarios.
+
+Así mismo, hemos aprendido cómo ponernos en el lugar de los usuarios de la aplicación para lograr deducir sus necesidades y qué esperan de nuestra aplicación, de forma que podamos diseñarla cumpliendo con las expectativas de todo tipo de personas. A su vez, también hemos tenido unas pinceladas de branding, para hacer nuestro producto reconocible y llamativo.
+
+En nuestra opinión, estas prácticas han sido muy enriquecedoras a nuestra formación, pues nos han introducido un poco más hacia buenas prácticas de diseño, cómo realizar las interfaces para que sean cómodas e inclusivas a todos los usuarios, teniendo en cuenta aspectos tan importantes como la accesibilidad, que no se menciona en ninguna asignatura previamente.
 
 
 

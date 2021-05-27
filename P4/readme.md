@@ -8,8 +8,8 @@
 
 Se nos han asignado dos casos : el caso A (nuestro propio proyecto) y el caso B (proyecto del grupo Lex).
 
-* [Enlace al repositorio del caso A (Marmotas)](https://github.com/Mapachana/DIU21)
-* [Enlace al repositorio del caso B (Lex)](https://github.com/lawvp/DIU21)
+* Nuestra aplicación: [(Marmotas)](https://github.com/Mapachana/DIU21)
+* Caso a evaluar: [(Lex)](https://github.com/lawvp/DIU21)
 
 ## Caso A
 
@@ -45,12 +45,12 @@ El tercer usuario es Víctor, de 26 años, un físico que trabaja en la Universi
 
 El cuarto usuario es Cecilia, una estudiante de turismo de 24 años.
 
-| id   | Género/Edad | Ocupación   | Experiencia internet | Plataforma | Perfil cubierto       | Test | SUS Score |
-| ---- | ----------- | ----------- | -------------------- | ---------- | --------------------- | ---- | --------- |
-| 1    | Hombre, 23  | Estudiante  | Alta                 | Android    | Estudiante, tranquilo | A    | 77.5      |
-| 2    | Mujer, 57   | Ama de casa | Baja                 | Android    | Desempleada, feliz    | A    | 80        |
-| 3    | Hombre, 26  | Físico      | Alta                 | Android    | Trabajador, tranquilo | B    | 67.5      |
-| 4    | Mujer, 24   | Estudiante  | Baja                 | Android    | Estudiante, enfadado  | B    | 67.5      |
+| id   | Género/Edad | Ocupación   | Experiencia internet | Plataforma | Personalidad | Test | SUS Score |
+| ---- | ----------- | ----------- | -------------------- | ---------- | ------------ | ---- | --------- |
+| 1    | Hombre, 23  | Estudiante  | Alta                 | Android    | Introvertido | A    | 77.5      |
+| 2    | Mujer, 57   | Ama de casa | Baja                 | Android    | Extrovertida | A    | 80        |
+| 3    | Hombre, 26  | Físico      | Alta                 | Android    | Racional     | B    | 67.5      |
+| 4    | Mujer, 24   | Estudiante  | Baja                 | Android    | Introvertida | B    | 67.5      |
 
 El cuestionario SUS puede consultarse [aquí](https://github.com/Mapachana/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.pdf).
 
