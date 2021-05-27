@@ -6,19 +6,20 @@
 >
 > Repositorio: [DIU21](https://github.com/Mapachana/DIU21)
 
-Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
+Se nos han asignado dos casos : el caso A (nuestro propio proyecto) y el caso B (proyecto del grupo Lex).
 
-Proyecto a evaluar https://github.com/lawvp/DIU21
+* [Enlace al repositorio del caso A (Marmotas)](https://github.com/Mapachana/DIU21)
+* [Enlace al repositorio del caso B (Lex)](https://github.com/lawvp/DIU21)
 
 ## Caso A
 
-Comenzamos estudiando la aplicación, VisitaGranada, del grupo Marmotas, que ha hecho un análisis basándose también en las necesidades de los usuarios y sus experiencias, pero ha considerado usuarios más diversos que usarán la aplicación.
+Comenzamos estudiando la aplicación, VisitaGranada, del grupo Marmotas, que al igual que el grupo Lex, ha hecho un análisis basándose en las necesidades de los usuarios y sus experiencias, pero ha considerado usuarios más diversos que usarán la aplicación.
 
 Los iconos son bastante usuales y siguen todos el mismo estilo minimalista, que no desentona en la aplicación, y al ser comunes hacen más intuitiva la navegabilidad por la app.
 
 Además el mockup tiene una interfaz intuitiva y fácil de usar, con acceso a todas las páginas desde cualquier lugar y la ayuda siempre accesible. También cabe destacar que todas las páginas se acceden pulsando haciendo scroll para bajar en las listas, lo que hace rápido el aprendizaje, pues no tienen que retener distintas formas de navegabilidad según dónde se encuentren en la app.
 
-Aunque la distinción entre qué actividades o visitas se consideran actividades o establecimientos (las dos categorías que encontramos en la aplicación) puede resultar algo confusas de primeras.
+Aunque la distinción entre qué actividades o visitas se consideran actividades o establecimientos (las dos categorías que encontramos en la aplicación) puede resultar algo confusa de primeras.
 
 
 ## Caso B
@@ -65,7 +66,7 @@ El usability report puede consultarse [aquí](https://github.com/Mapachana/DIU21
 
 ## Conclusiones
 
-No hay una página de ayuda ni preguntas frecuentes, Tampoco muestra la ruta de dónde estamos en cada momento. La navegación entre secciones es algo confusa, en especial no queda claro que haya que deslizar hacia los lados solo con los tres puntos, 
+No hay una página de ayuda ni preguntas frecuentes, Tampoco muestra la ruta de dónde estamos en cada momento. La navegación entre secciones es algo confusa, en especial no queda claro que haya que deslizar hacia los lados solo con los tres puntos.
 
 Además no está claro dónde está la sección de crear un nuevo viaje, si en tus viajes o en organizar, y el foro está bastante escondido.
 
@@ -74,4 +75,3 @@ Pese a ello, todos los usuarios se desenvolvieron bien en la aplicación, encont
 Finalmente, respecto a la comparativa de A/B, aunque haya diferencia de puntos, a,bas aplicaciones tienen objetivos ligeramente distintos y la B está más completa, por lo que no se deberían comparar solo por los resultados del SUS. 
 
 
- 
