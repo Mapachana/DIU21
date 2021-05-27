@@ -51,7 +51,7 @@ El cuarto usuario es Cecilia, una estudiante de turismo de 24 años.
 | 3    | Hombre, 26  | Físico      | Alta                 | Android    | Trabajador, tranquilo | B    | 67.5      |
 | 4    | Mujer, 24   | Estudiante  | Baja                 | Android    | Estudiante, enfadado  | B    | 67.5      |
 
-El cuestionario SUS puede consultarse aquí.
+El cuestionario SUS puede consultarse [aquí](https://github.com/Mapachana/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.pdf).
 
 En vista de los resultados del cuestionario SUS realizado sobre las aplicaciones A y B observamos que la media del cuestionario A es 78.75, lo cuál indica una calificación B: la aplicación es agradable pero no es probable que los usuarios la recomienden activamente a otros conocidos, y la media del cuestionario B es 67.5, con calificación D: indica una zona marginal y un posible descontento con la compañía.
 
@@ -61,9 +61,7 @@ Algunos comentarios de los usuarios han sido que la aplicación B les resulta de
 
 ## Usability report
 
-El usability report puede consultarse aquí.
-
-
+El usability report puede consultarse [aquí](https://github.com/Mapachana/DIU21/blob/master/P4/DIU_report-template-usability-testOK.pdf).
 
 ## Conclusiones
 
